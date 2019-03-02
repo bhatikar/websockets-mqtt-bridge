@@ -1,0 +1,19 @@
+{
+  "name": "websockets-mqtt-bridge",
+  "version": "1.0.0",
+  "description": "Bridge for MQTT and WS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhatikar/websockets-mqtt-bridge.git"
+  },
+  "author": "Abhijeet Bhatikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhatikar/websockets-mqtt-bridge/issues"
+  },
+  "homepage": "https://github.com/bhatikar/websockets-mqtt-bridge#readme"
+}
